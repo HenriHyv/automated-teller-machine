@@ -12,8 +12,8 @@ My focus in this project was Rest Api / kortti part in backend.
 
 
 ## Authors
-HenriHyv - Henri Hyvärinen
-Peasami - Santeri Hyry
-JokiMik - Mikko Jokitalo
-works-IKAMASA - Matti Asamäki
-Jylant - Antti Jylhä
+HenriHyv - Henri Hyvärinen \
+Peasami - Santeri Hyry \
+JokiMik - Mikko Jokitalo \
+works-IKAMASA - Matti Asamäki \
+Jylant - Antti Jylhä \
