@@ -16,4 +16,4 @@ HenriHyv - Henri Hyvärinen \
 Peasami - Santeri Hyry \
 JokiMik - Mikko Jokitalo \
 works-IKAMASA - Matti Asamäki \
-Jylant - Antti Jylhä \
+Jylant - Antti Jylhä 
