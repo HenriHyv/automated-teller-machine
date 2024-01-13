@@ -7,7 +7,8 @@ Automated teller machine made with C++ and NODE for school project. We made this
 
 
 ## My part in the project
-My focus in this project was dll Rest Api / kortti part in backend.
+My focus in this project was dll Rest Api / card part in backend.
+Functionality for backend to communicate with MySQL database.
 
 
 
